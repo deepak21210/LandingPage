@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+:root{
+  --primary : #F7B433;
+  --secondary : #FB7C20;
+  --gradient : linear-gradient(90deg, rgba(247,179,67,1) 22%, rgba(251,124,32,1) 56%);
+  --bg : #FFFFFF;
+  --text : #000000;
+  --icon : #505050;  
+  
+  font-family: 'Poppins';
+}

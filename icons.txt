@@ -1,0 +1,28 @@
+import { MdEmail, MdLocationPin } from 'react-icons/md';
+import {BiSolidStar, BiChevronDownCircle, BiPlusCircle, BiLogoYoutube ,BiSolidPhoneIncoming, BiLogoFacebookCircle, BiLogoInstagramAlt} from 'react-icons/Bi';
+import {GiHamburgerMenu, GiTeacher} from 'react-icons/gi';
+import {BsFillCalendarDateFill, BsFillClockFill, BsClipboardData} from 'react-icons/bs';
+import {RiGraduationCapFill} from 'react-icons/ri';
+import {FaRegHandshake} from 'react-icons/fa';
+import {GrDocumentUser} from 'react-icons/Gr';
+import {LiaChalkboardTeacherSolid} from 'react-icons/lia';
+
+       <MdEmail className='cup'/> 
+       <BiSolidPhoneIncoming/>
+       <GiHamburgerMenu/>
+       <BiLogoFacebookCircle/>
+       <BiLogoInstagramAlt/>
+       <MdLocationPin/>
+       <BiLogoYoutube/>
+       <BiPlusCircle/>
+       <BiChevronDownCircle/>
+       <BiSolidStar/>
+
+       <BsFillCalendarDateFill/>
+       <RiGraduationCapFill/>
+       <BsFillClockFill/>
+       <BsClipboardData/>
+       <GiTeacher/>
+       <FaRegHandshake/>
+       <GrDocumentUser/>
+       <LiaChalkboardTeacherSolid/>
